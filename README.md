@@ -1,5 +1,5 @@
 <img src="./github-banner.png.png" alt="Jay Andrade — Product Design & UX Strategy" width="100%">
-# Hey, I'm Jay. 👋
+### Hey, I'm Jay. 👋
 
 
 ### Product Designer · Design Engineer · UX/UI Designer · UX Strategy
