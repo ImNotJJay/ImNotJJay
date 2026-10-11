@@ -1,4 +1,4 @@
-<img src="./github-banner.png" alt="Jay Andrade — Product Design & UX Strategy" width="100%">
+<img src="./github-banner.png.png" alt="Jay Andrade — Product Design & UX Strategy" width="100%">
 # Hey, I'm Jay. 👋
 
 
