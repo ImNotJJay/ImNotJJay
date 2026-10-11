@@ -1,6 +1,6 @@
 # Hey, I'm Jay. 👋
 
-### Product Designer · UX/UI Designer · UX Strategy
+### Product Designer · Design Engineer · UX/UI Designer · UX Strategy
 
 **Designing clarity. Creating impact.**
 
